@@ -1,6 +1,7 @@
 <h1>Joke Extension</h1>
 <br>
-![Screenshot (593)](https://user-images.githubusercontent.com/91742676/140623657-a6f1afcd-9292-4bc5-9d0f-f360eb98b1e6.png)
+
+![Screenshot (593)](https://user-images.githubusercontent.com/91742676/140623688-85385e58-901d-4a72-9336-e05169b1ac8b.png)
 
 ->To run this extension
 1. Download
